@@ -13,7 +13,7 @@ This Docker image is based on the official [alpine:3.4](https://hub.docker.com/_
 ## How to use this image
 
 ```
-docker run uzyexe/terraform [--version] [--help] <command> [<args>]
+TBC
 
 ```
 
